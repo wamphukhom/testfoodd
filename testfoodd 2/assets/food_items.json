@@ -1,0 +1,27 @@
+[
+    {
+      "name": "Appetizer 1",
+      "category": "Appetizer"
+    },
+    {
+      "name": "Main Course 1",
+      "category": "Main Course"
+    },
+    {
+      "name": "Main Course 2",
+      "category": "Main Course"
+    },
+    {
+      "name": "Dessert 1",
+      "category": "Dessert"
+    },
+    {
+      "name": "Dessert 2",
+      "category": "Dessert"
+    },
+    {
+      "name": "Dessert 3",
+      "category": "Dessert"
+    }
+  ]
+  
